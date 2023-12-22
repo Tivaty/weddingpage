@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inria-serif: "Inria Serif";
+  --font-inspiration: Inspiration;
+
+  /* font sizes */
+  --font-size-smi: 0.81rem;
+  --font-size-2xl-3: 1.33rem;
+  --font-size-34xl-3: 3.33rem;
+  --font-size-21xl-8: 2.55rem;
+  --font-size-73xl-6: 5.79rem;
+
+  /* Colors */
+  --color-dimgray: #675d50;
+  --color-teal: #3a8891;
+  --color-papayawhip: #ffefd6;
+
+  /* Gaps */
+  --gap-6xs-5: 0.41rem;
+  --gap-4xs-3: 0.52rem;
+}
